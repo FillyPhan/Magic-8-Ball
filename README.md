@@ -5,9 +5,9 @@ This is a simple Magic 8 Ball with 20 possible responses.
 Me and a fellow beginner wanted to see if we could quickly build a nice looking magic 8 ball program from scratch. This is mine. Basically you just input a question, and then 
 press ENTER. The program returns one of 20 possible answers in the top middle of the screen. It is completely random. 
 
-
 # Usage
 Currently made for desktop only. To use, just drag index.html file to your browser tab. It is a one file program less than 150 total lines of code.
+Easily edit with your own answers by either adding or replacing strings in the "answer" array. 
 
 # Future
 The first update will probably be sound and movement of the 8 ball upon pressing ENTER.
